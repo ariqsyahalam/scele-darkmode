@@ -1,0 +1,26 @@
+{
+  "name": "Scele CSUI Dark Mode",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Makes dark your scele",
+  "homepage_url": "http://github.com/dooriq",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "contentSettings",
+    "https://scele.cs.ui.ac.id/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scele.cs.ui.ac.id/*"
+      ],
+      "css": [
+        "src/darkMode.css"
+      ]
+    }
+  ]
+}

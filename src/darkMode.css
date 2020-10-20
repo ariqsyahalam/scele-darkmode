@@ -1,0 +1,193 @@
+body {
+    background-color: #30475e!important;
+    color: #ececec !important;
+    font-family: 'Varela Round', sans-serif !important;
+}
+  
+.block {
+background-color : #30475e !important;
+color: #ececec !important;
+border : none !important;
+padding: 16px!important;
+border-radius: 10px!important;
+
+}
+
+.block_html{
+    background-color : #30475e !important;
+    color: #ececec !important;
+    border : none !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+
+}
+
+.forumpost {
+    background-color: #30475e !important;
+    color: #ececec !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+    border: none !important;
+
+}
+
+h1{
+    color: #f2a365 !important;
+}
+
+h2{
+    color: #f2a365 !important;
+}
+
+h3{
+    color: #f2a365 !important;
+}
+
+h4{
+    color: #f2a365 !important;
+}
+
+h5{
+    color: #f2a365 !important;
+}
+
+#page a{
+    color: #f2a365 !important;
+    font: bold !important;
+}
+
+strong{
+    color: #f2a365 !important;
+}
+
+span{
+    color: #ececec !important;
+}
+
+div .subject {
+    color: #f2a365 !important;
+}
+
+#page {
+    background-color: #222831 !important;
+}
+
+.activity{
+    color: #222831 !important;
+}
+
+.activity a{
+    color: #222831 !important;
+}
+
+.instancename{
+    color: #f2a365 !important;
+}
+
+.caret{
+    background-color: #30475e !important;
+    color: #ececec !important;
+}
+
+li .section{
+    background-color: #30475e !important;
+    color: #ececec !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+
+}
+
+#page p{
+    color: #ececec !important;
+}
+  
+#page li{
+    color: #ececec !important;
+}
+
+.clock{
+    color: #ececec !important;
+}
+
+#module-51809 span{
+    color: #222831 !important;
+}
+  
+.block_calendar_month a{
+    color: #222831 !important;
+}
+
+.btn .btn-link{
+    background-color:#000000 !important;
+}
+
+td{
+    background-color:  #222831 !important;
+}
+
+pre{
+    background-color: #30475e !important;
+    color: #ececec !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+
+}
+div .formulation{
+    background-color:  #222831 !important;
+}
+
+.texrender{
+    background-color: #ececec !important;
+}
+
+.drags{
+    color:  #222831 !important;
+}
+
+th{
+    background-color: #30475e !important;
+    color: #ececec !important;
+}
+
+div .info{
+    background-color: #30475e !important;
+    color: #ececec !important;
+}
+
+.que.ddwtos .group1 {
+    background-color: #30475e !important;
+    color: #ececec !important;
+}
+
+#page td{
+    background-color : #30475e !important;
+    color: #ececec !important;
+}
+
+strong span{
+    background-color : #222831 !important;
+    color: #ececec !important;
+}
+
+.course-content .current .content {
+    background-color: #f2a365 !important;
+    color: #ececec !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+}
+
+.course-content .current{
+    background-color: none !important;
+}
+
+.menu-action-text{
+    color: #222831 !important;
+}
+
+.subcontent label{
+    color: #222831 !important;
+}
+
+.desc{
+    color: #222831 !important;
+}
