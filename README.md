@@ -1,6 +1,6 @@
 # SCELE CS UI DARKMODE CHROMIUM EXTENSION
 
-## Intoduce
+## Introduce
 Project ini diharapkan dapat menjadi solusi agar website [Scele](https://scele.cs.ui.ac.id) dapat digunakan dalam mode dark.
 
 ## Cara Pemasangan
