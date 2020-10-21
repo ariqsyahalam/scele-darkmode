@@ -4,7 +4,7 @@
 Project ini diharapkan dapat menjadi solusi agar website [Scele](https://scele.cs.ui.ac.id) dapat digunakan dalam mode dark.
 
 ## Cara Pemasangan
-Download repository scele darkmode [disini](https://github.com/ariq-syahalam/scele-darkmode/archive/main.zip)
+Download repository scele darkmode 
 
 Ekstrak file zip kesuatu folder(bebas), pastikan folder tidak akan terhapus
 
@@ -21,6 +21,11 @@ Pada browser (berbasis chromium) buka menu "extention"
 Pilih extention "Scele CSUI Dark Mode"
 
 pilih "remove"
+
+#
+
+### Sugestion, Bugs, and Credit
+ [Give Sugestion, Bugs, or Credit Here](https://padlet.com/reyhanariq/a73mcw65b8bpji60)
 
 
 
