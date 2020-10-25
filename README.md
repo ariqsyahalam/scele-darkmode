@@ -7,7 +7,7 @@ This extension is an extension that can make the website [Scele](https://scele.c
 ## How to Install
 
 ### Chromium Browser Base
-Download the darkmode scele file for Chrome [Download here] (https://github.com/ariq-syahalam/scele-darkmode/archive/main.zip)
+Download the darkmode scele file for Chrome [Download here](https://github.com/ariq-syahalam/scele-darkmode/archive/main.zip)
 
 Extract the zip file into a folder (free), make sure the folder will not be deleted
 
@@ -19,7 +19,7 @@ Extension has been installed and can open [Scele](https://scele.cs.ui.ac.id) in 
 
 
 ### Mozilla Firefox Browser Base
-Download the darkmode scele file for Mozilla Firefox [Download here] (https://drive.google.com/file/d/1iUiUEcrO8X4T48wuD0Kcz3z_jv8kJumd/view)
+Download the darkmode scele file for Mozilla Firefox [Download here](https://drive.google.com/file/d/1iUiUEcrO8X4T48wuD0Kcz3z_jv8kJumd/view)
 
 go to the "extensions" menu in the browser
 
