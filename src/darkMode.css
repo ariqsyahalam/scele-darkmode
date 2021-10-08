@@ -3,23 +3,74 @@ body {
     color: #ececec !important;
     font-family: 'Varela Round', sans-serif !important;
 }
-  
-.block {
-background-color : #30475e !important;
-color: #ececec !important;
-border : none !important;
-padding: 16px!important;
-border-radius: 10px!important;
 
+.block {
+    background-color: #30475e !important;
+    color: #ececec !important;
+    border: none !important;
+    padding: 16px!important;
+    border-radius: 10px!important;
 }
 
-.block_html{
-    background-color : #30475e !important;
+.qn-question {
+    color: #000000 !important;
+    background-color: #30475e !important;
+    border-radius: 10px!important;
+}
+
+.qn-answer {
+    color: #fff;
+}
+
+.qn-info {
+    background-color: transparent !important;
+}
+
+.sectionname {
+    background-color: transparent !important;
+    border-width: 0px !important;
+}
+
+.submissionsummarytable {
+    padding: 8px !important;
+    border-radius: 10px!important;
+    background-color: #30475e !important;
+}
+
+button {
+    background-color: #f2a365 !important;
+    color: #30475e !important;
+}
+
+.forumheaderlist {
+    padding: 8px !important;
+    border-radius: 10px!important;
+    background-color: #30475e !important;
+}
+
+.section button {
+    background-color: transparent !important;
+}
+
+.message {
+    background-color: #30475e !important;
+    border-radius: 10px!important;
+}
+
+.ablock {
+    background-color: #30475e !important;
     color: #ececec !important;
-    border : none !important;
+    border: none !important;
+    padding: 16px!important;
+    border-radius: 10px!important;
+}
+
+.block_html {
+    background-color: #30475e !important;
+    color: #ececec !important;
+    border: none !important;
     padding: 16px !important;
     border-radius: 10px !important;
-
 }
 
 .forumpost {
@@ -28,39 +79,38 @@ border-radius: 10px!important;
     padding: 16px !important;
     border-radius: 10px !important;
     border: none !important;
-
 }
 
-h1{
+h1 {
     color: #f2a365 !important;
 }
 
-h2{
+h2 {
     color: #f2a365 !important;
 }
 
-h3{
+h3 {
     color: #f2a365 !important;
 }
 
-h4{
+h4 {
     color: #f2a365 !important;
 }
 
-h5{
+h5 {
     color: #f2a365 !important;
 }
 
-#page a{
+#page a {
     color: #f2a365 !important;
     font: bold !important;
 }
 
-strong{
+strong {
     color: #f2a365 !important;
 }
 
-span{
+span {
     color: #ececec !important;
 }
 
@@ -72,84 +122,83 @@ div .subject {
     background-color: #222831 !important;
 }
 
-.activity{
+.activity {
     color: #222831 !important;
 }
 
-.activity a{
+.activity a {
     color: #222831 !important;
 }
 
-.instancename{
+.instancename {
     color: #f2a365 !important;
 }
 
-.caret{
+.caret {
     background-color: #30475e !important;
     color: #ececec !important;
 }
 
-li .section{
-    background-color: #30475e !important;
-    color: #ececec !important;
-    padding: 16px !important;
-    border-radius: 10px !important;
-
-}
-
-#page p{
-    color: #ececec !important;
-}
-  
-#page li{
-    color: #ececec !important;
-}
-
-.clock{
-    color: #ececec !important;
-}
-
-#module-51809 span{
-    color: #222831 !important;
-}
-  
-.block_calendar_month a{
-    color: #222831 !important;
-}
-
-.btn .btn-link{
-    background-color:#000000 !important;
-}
-
-td{
-    background-color:  #222831 !important;
-}
-
-pre{
+li .section {
     background-color: #30475e !important;
     color: #ececec !important;
     padding: 16px !important;
     border-radius: 10px !important;
-
-}
-div .formulation{
-    background-color:  #222831 !important;
 }
 
-.texrender{
+#page p {
+    color: #ececec !important;
+}
+
+#page li {
+    color: #ececec !important;
+}
+
+.clock {
+    color: #ececec !important;
+}
+
+#module-51809 span {
+    color: #222831 !important;
+}
+
+.block_calendar_month a {
+    color: #222831 !important;
+}
+
+.btn .btn-link {
+    background-color: #000000 !important;
+}
+
+td {
+    background-color: #222831 !important;
+}
+
+pre {
+    background-color: #30475e !important;
+    color: #ececec !important;
+    padding: 16px !important;
+    border-radius: 10px !important;
+}
+
+div .formulation {
+    background-color: #222831 !important;
+}
+
+.texrender {
     background-color: #ececec !important;
 }
 
-.drags{
-    color:  #222831 !important;
+.drags {
+    color: #222831 !important;
 }
 
-th{
+th {
     background-color: #30475e !important;
     color: #ececec !important;
 }
 
-div .info{
+div .info {
     background-color: #30475e !important;
     color: #ececec !important;
 }
@@ -159,13 +208,13 @@ div .info{
     color: #ececec !important;
 }
 
-#page td{
-    background-color : #30475e !important;
+#page td {
+    background-color: #30475e !important;
     color: #ececec !important;
 }
 
-strong span{
-    background-color : #222831 !important;
+strong span {
+    background-color: #222831 !important;
     color: #ececec !important;
 }
 
@@ -176,18 +225,18 @@ strong span{
     border-radius: 10px !important;
 }
 
-.course-content .current{
+.course-content .current {
     background-color: none !important;
 }
 
-.menu-action-text{
+.menu-action-text {
     color: #222831 !important;
 }
 
-.subcontent label{
+.subcontent label {
     color: #222831 !important;
 }
 
-.desc{
+.desc {
     color: #222831 !important;
 }
