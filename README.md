@@ -1,47 +1,33 @@
-# SCELE CS UI DARKMODE EXTENSION
+# Scele CS UI Dark Mode Extension
 
-## Introduce
-	
-This extension is an extension that can make the website [Scele](https://scele.cs.ui.ac.id) dark mode. Users can log in first to [Scele](https://scele.cs.ui.ac.id) so they can use the full functions of the website. scele.cs.ui.ac.id is an e-learning environmental website used by students of the Faculty of Computer Science, University of Indonesia. Apart from making the extension dark mode it also made some minor changes to the website. changing to dark mode also uses colors that are appropriate and pleasing to the eye.
+Transform your [Scele CS UI](https://scele.cs.ui.ac.id) website into a more visually appealing dark theme with this extension. Apart from providing a dark mode, this extension introduces some minor tweaks to improve the overall user experience.
 
-## How to Install
+> **Note:** Log in to [Scele CS UI](https://scele.cs.ui.ac.id) to experience all its features. Scele.cs.ui.ac.id is a digital learning environment for the students of the Faculty of Computer Science, University of Indonesia.
 
-### Chromium Browser Base
-Download the darkmode scele file for Chrome [Download here](https://github.com/ariq-syahalam/scele-darkmode/archive/main.zip)
+## Installation Instructions
 
-Extract the zip file into a folder (free), make sure the folder will not be deleted
+### For Chromium-based Browsers
 
-In a browser (based on chromium) open the "extention" menu then activate "developer mode"
+1. Download the Dark Mode Scele extension for Chrome from [here](https://github.com/ariq-syahalam/scele-darkmode/archive/main.zip).
+2. Extract the zip file into a dedicated folder.
+3. Open the "Extensions" menu in your browser and enable "Developer Mode".
+4. Click on "Load Unpacked" and navigate to the extracted "scele-darkmode" folder.
+5. Enjoy the Dark Mode on [Scele CS UI](https://scele.cs.ui.ac.id)!
 
-Then select the "load unpacked" menu and select the "scele-darkmode" folder that was downloaded
+### For Mozilla Firefox
 
-Extension has been installed and can open [Scele](https://scele.cs.ui.ac.id) in a dark mode
-
-
-### Mozilla Firefox Browser Base
-Download the darkmode scele file for Mozilla Firefox [Download here](https://drive.google.com/file/d/1iUiUEcrO8X4T48wuD0Kcz3z_jv8kJumd/view)
-
-go to the "extensions" menu in the browser
-
-select a cleat image on the display
-
-select "Install add-on from file"
-
-select the file that has been downloaded
-
-and the scele darkmode extension is installed
-
-
+1. Download the Dark Mode Scele extension for Firefox from [here](https://drive.google.com/file/d/1iUiUEcrO8X4T48wuD0Kcz3z_jv8kJumd/view).
+2. Navigate to the "Extensions" menu in your Firefox browser.
+3. Click on the gear icon and select "Install Add-on From File".
+4. Choose the downloaded file to install the extension.
+5. Scele Dark Mode Extension is now ready for use!
 
 ## How to Uninstall
 
-In a browser open the "extention" menu
-
-Select the "Scele CSUI Dark Mode" extension
-
-select "remove"
-
-
+1. Open the "Extensions" menu in your browser.
+2. Locate the "Scele CSUI Dark Mode" extension.
+3. Click on "Remove" to uninstall the extension.
 
 ## Feedback
- [Give a feedback here](https://padlet.com/reyhanariq/a73mcw65b8bpji60)
+
+We appreciate your feedback! Please share your thoughts [here](https://padlet.com/reyhanariq/a73mcw65b8bpji60).
