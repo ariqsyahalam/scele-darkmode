@@ -1,0 +1,105 @@
+:root {
+    --background-color: #30475e;
+    --color: #ececec;
+    --button-color: #f2a365;
+    --page-color: #222831;
+    --white-color: #fff;
+    --black-color: #000000;
+    --textrender-color: #ececec;
+}
+
+body,
+.block,
+.qn-question,
+.submissionsummarytable,
+.forumheaderlist,
+.message,
+.ablock,
+.block_html,
+.forumpost,
+.pre,
+#page td,
+.course-content .current .content,
+.th,
+.div .info,
+.que.ddwtos .group1,
+li .section {
+    background-color: var(--background-color) !important;
+    color: var(--color) !important;
+    font-family: 'Varela Round', sans-serif !important;
+    padding: 16px !important;
+    border: none !important;
+    border-radius: 10px !important;
+}
+
+#page,
+#page p,
+#page li,
+#page a,
+.span,
+.caret,
+.clock {
+    color: var(--color) !important;
+}
+
+.activity,
+.activity a,
+#module-51809 span,
+.block_calendar_month a,
+.menu-action-text,
+.subcontent label,
+.desc,
+.drags {
+    color: var(--page-color) !important;
+}
+
+#page {
+    background-color: var(--page-color) !important;
+}
+
+.qn-answer {
+    color: var(--white-color) !important;
+}
+
+.qn-info,
+.sectionname {
+    background-color: transparent !important;
+    border-width: 0px !important;
+}
+
+button,
+h1,
+h2,
+h3,
+h4,
+h5,
+#page a,
+strong,
+div .subject,
+.instancename {
+    color: var(--button-color) !important;
+}
+
+.section button,
+.course-content .current {
+    background-color: transparent !important;
+}
+
+strong span,
+.div .formulation {
+    background-color: var(--page-color) !important;
+}
+
+.texrender {
+    background-color: var(--textrender-color) !important;
+}
+
+.btn .btn-link,
+#page td {
+    background-color: var(--black-color) !important;
+}
+
+td,
+div .formulation {
+    background-color: var(--page-color) !important;
+}
